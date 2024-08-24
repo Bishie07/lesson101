@@ -21,4 +21,4 @@ This lesson describes how to push codes from local environment to git hub which 
 - Navigate to the settings tab of your repo 
 - From the general session locate Pages
 - From the deployment and build session > Select the Branch document > click save
-- Wait for 1- or more mins, refresh the github page to retreive the url for the file
+- Wait for one or more mins, refresh the github page to retreive the url pages for the file
