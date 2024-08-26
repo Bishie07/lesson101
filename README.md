@@ -6,16 +6,16 @@ This lesson describes how to push codes from local environment to git hub which 
 - git config --global user.name  "name"
 - git config --global user.email  "email"
 ## Cofigure Environment  
-- mkdir Challant
-- cx Challant
-- touch name.html
+- mkdir test1
+- cd test1
+- touch index.html
 - git init
 ## Clone Your Repo
 - git remote add origin url (this should be the url from your created repo-use https)
 ## Push to github  
 - git status
-- git add Bishie.html
-- git commit -m "Create Bishie.html"
+- git add Index.html
+- git commit -m "Create name.html"
 - git push origin master
 ## Convert File to github Pages  
 - Navigate to the settings tab of your repo 
